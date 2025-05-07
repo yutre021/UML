@@ -22,6 +22,11 @@ Com o tempo, a UML foi adotada pela OMG (Object Management Group), que oficializ
 
 - O DRAW.IO também é uma opção intuitiva para elaborar diagramas,entre eles o BPMN, é gratuito e pode ser usado online. Está disponível em: https://app.diagrams.net/ (ou simplesmente pesquise draw.io)
 
+# A UML pode ser usada com todos os processos durante o ciclo de desenvolvimento do projeto:
+- Análise de requisitos
+- Análise de sistema
+- Desing
+- Programação e Testes
 
 ### 🇺🇸 UML (Unified Modeling Language) is a standard language for specifying, visualizing, constructing, and documenting the artifacts of software systems. It was created in the 1990s by three software engineering experts: Grady Booch, Ivar Jacobson, and James Rumbaugh, known as "The Three Amigos", during their time at Rational Software. UML was developed to unify the various modeling techniques of the time, making communication between developers easier and improving the planning of object-oriented systems.
 
