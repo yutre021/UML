@@ -18,7 +18,7 @@ Com o tempo, a UML foi adotada pela OMG (Object Management Group), que oficializ
 
 - Diagrama de Estados
 
-- O software Bizagi vem se destacando para a modelagem e documentação de processos, uma vez que é muito intuitivo e de simples manipulação. Além disso, há um extenso tutorial gratuito de apoio disponível em elearning.bizagi.com
+- O software Bizagi vem se destacando para a modelagem e documentação de processos, uma vez que é muito intuitivo e de simples manipulação. Além disso, há um extenso tutorial gratuito de apoio disponível em https://elearning.bizagi.com
 
 - O DRAW.IO também é uma opção intuitiva para elaborar diagramas,entre eles o BPMN, é gratuito e pode ser usado online. Está disponível em: https://app.diagrams.net/ (ou simplesmente pesquise draw.io)
 
