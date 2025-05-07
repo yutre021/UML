@@ -28,6 +28,10 @@ Com o tempo, a UML foi adotada pela OMG (Object Management Group), que oficializ
 - Desing
 - Programação e Testes
 
+  ![Diagrama UML](src/uml.png)
+  
+
+
 ### 🇺🇸 UML (Unified Modeling Language) is a standard language for specifying, visualizing, constructing, and documenting the artifacts of software systems. It was created in the 1990s by three software engineering experts: Grady Booch, Ivar Jacobson, and James Rumbaugh, known as "The Three Amigos", during their time at Rational Software. UML was developed to unify the various modeling techniques of the time, making communication between developers easier and improving the planning of object-oriented systems.
 
 Over time, UML was adopted by the OMG (Object Management Group), which standardized the language and continues to maintain it. Today, UML is widely used in software projects from conception to maintenance, especially in enterprise environments.
