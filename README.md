@@ -28,7 +28,7 @@ Com o tempo, a UML foi adotada pela OMG (Object Management Group), que oficializ
 - Desing
 - Programação e Testes
 
-<img src="src/uml.png" alt="Diagrama UML" width="600"/>
+<img src="UML/src/uml.png" alt="Diagrama UML" width="600"/>
   
 
 
