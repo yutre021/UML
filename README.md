@@ -1,13 +1,12 @@
 # UML
 Here is gonna be set the UML (PT,US)
 
-
-##📘 Sobre a UML | About UML
+# 📘 Sobre a UML | About UML
 🇧🇷 UML (Linguagem de Modelagem Unificada) é uma linguagem padrão para especificação, visualização, construção e documentação de artefatos de sistemas de software. Ela foi criada na década de 1990 por três especialistas em engenharia de software: Grady Booch, Ivar Jacobson e James Rumbaugh, conhecidos como "Os Três Amigos", enquanto trabalhavam na Rational Software. A UML surgiu com o objetivo de unificar as diferentes técnicas de modelagem existentes na época, facilitando a comunicação entre desenvolvedores e melhorando o planejamento de sistemas orientados a objetos.
 
 Com o tempo, a UML foi adotada pela OMG (Object Management Group), que oficializou a linguagem e continua responsável por sua padronização. Hoje, a UML é amplamente utilizada em projetos de software, desde a concepção até a manutenção, especialmente em ambientes corporativos.
 
-#Principais tipos de diagramas UML:
+# Principais tipos de diagramas UML:
 
 - Diagrama de Casos de Uso
 
